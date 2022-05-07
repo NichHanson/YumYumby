@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YumYumby
+- 👋 Hi, I’m @NichHanson
 - 👀 I’m interested in science!  
 - 🌱 I’m currently learning how to code in order to advance my knowledge in tech and advance my career
 - 💞️ I’m unsure on collaboration efforts at this time.
